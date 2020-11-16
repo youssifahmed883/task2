@@ -1,0 +1,114 @@
+body{
+
+    background-image: url("pierre-le-vaillant--g4dgdOExsw-unsplash.jpg");
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+.rightNav{
+    background-color:#0F3570;
+    opacity: 60%;   
+    float: right;
+    display:inline-block;
+    width: 22%;
+    height:100%;
+    
+}
+.menuDiv{
+    margin-top: 30%;
+    
+    
+}
+
+.regestration{
+    background-color: white;  
+    display: inline-block;
+    width:25%;
+    position: relative;
+    top:20%;
+    left:30%;
+    height: 60%;
+    border-radius: 5%;
+}
+
+.regestration h1{
+    color: blue;
+    font-size: 280%;
+    font-weight: bold;
+}
+.regestration h2{
+    color: darkgray;
+    
+}
+.regestration input[type="text"]{
+    
+    width: 80%;
+    padding-top: 2.5%;
+    padding-bottom: 2%;
+    padding-left: 9%;
+    margin-left: 10%;
+    border-radius: 50px;
+    outline: 0px;
+}
+.usernamePhoto{
+    position: absolute;
+    width: 6%;
+    left : 13%;
+    top : 5px;
+ 
+}
+.phPassword{
+ position: absolute;
+    width: 6%;
+    left : 13%;
+    top : 5px;
+    
+}
+.regestration input[type="password"]{
+    
+    width: 80%;
+    padding-top: 2.5%;
+    padding-bottom: 2%;
+    padding-left: 9%;
+    margin-left: 10%;
+    border-radius: 50px;
+    outline: 0px;
+}
+    
+.regButton{
+    
+    width: 80%;
+    margin-left: 10%;
+    padding: 2% 0px 2% 0px;
+    border-radius: 20px;
+    background-color: #0F3570;
+    color: white;
+    font-size: 120%;
+        
+}
+.links{
+    display: inline-block;
+    padding-bottom: 6%;
+    padding-top: 6%;
+    width: 100%;
+    background-color: transparent;
+    border: 0px;
+    color:white;
+    font-family: sans-serif;
+    font-size: 120%;
+    text-decoration: none;
+    
+}
+.links:hover{
+    background-color: blue;
+    
+}
+.menuButton{
+    width: 10%;
+    height: 5%;
+    float: right;
+    position: relative;
+    top :6%;
+    right: 10%;
+    
+}
